@@ -1,0 +1,14 @@
+# Ignore Python virtual environments
+.venv/
+
+# Ignore Ollama app and binaries
+Ollama.app/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore compiled files
+*.pyc
+
+# Ignore system files
+.DS_Store 
